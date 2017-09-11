@@ -1,4 +1,4 @@
-## football_diary_project
+### football_diary_project
 
 ##### This diary was written in 1997~2003.
 ##### Total data set : 205 
@@ -8,7 +8,8 @@
 - Text Generation(RNN)
 
 
-## 자연어처리를 활용한 과거 시절 나만의 일기 텍스트 분석 및 일기 생성 
+            
+### 자연어처리를 활용한 과거 시절 나만의 일기 텍스트 분석 및 일기 생성 
 
 ##### 일기는 1997년~1999년과 2000년 그 이후의 일기로 구성
 ##### 전체 일기 데이터 수는 일별로 따져서 205개
