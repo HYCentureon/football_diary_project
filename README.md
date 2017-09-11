@@ -7,7 +7,7 @@
 - Text Analysis(lda, Word2Vec, T-sne)
 - Text Generation(RNN)
 
-
+------
             
 ### 자연어처리를 활용한 과거 시절 나만의 일기 텍스트 분석 및 일기 생성 
 
